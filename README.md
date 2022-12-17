@@ -4,7 +4,8 @@ içeriğini bir diziye attıktan sonra dilin gramer kurallarına göre kelimele�
 gerçekleştirirler. Kelimeleştirme işlemi bittikten sonra gramer kural testi yapılır. Bu çalışmada 
 aşağıda verilen kodlar ve gramer kuralları kullanılacaktır.
 
-TOP OP1,OP2\n
+TOP OP1,OP2
+
 CRP OP1,OP2
 BOL OP1,OP2
 CIK OP1,OP2
