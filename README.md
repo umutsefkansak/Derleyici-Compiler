@@ -32,7 +32,7 @@ VEY OP1,OP2
 Gramer kuralları
 
 <program> -> <aritmetik> | <mantıksal> | <dallanma>
-  
+
 <aritmetik> -> TOP <op>,<op> | CRP <op>,<op> | BOL <op>,<op> | CIK <op>,<op> | ATM <op>,<op>
   
 <mantıksal> -> VE <op>,<op> | VEY <op>,<op>
